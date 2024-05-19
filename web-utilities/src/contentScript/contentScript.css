@@ -1,0 +1,11 @@
+.overlayCard {
+  display: block;
+  width: 100vh;
+  height: 2857px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 2147483620;
+  cursor: crosshair;
+  visibility: visible !important;
+}
